@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emp_Management_01", "Emp_Management_01\Emp_Management_01.csproj", "{F76078C2-FEEB-49BA-B6E8-C6C0E45696BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76078C2-FEEB-49BA-B6E8-C6C0E45696BC}.Debug|x86.ActiveCfg = Debug|x86
+		{F76078C2-FEEB-49BA-B6E8-C6C0E45696BC}.Debug|x86.Build.0 = Debug|x86
+		{F76078C2-FEEB-49BA-B6E8-C6C0E45696BC}.Release|x86.ActiveCfg = Release|x86
+		{F76078C2-FEEB-49BA-B6E8-C6C0E45696BC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

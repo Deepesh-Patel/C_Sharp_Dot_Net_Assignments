@@ -1,0 +1,11 @@
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.frm_Login.resources
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.Properties.Resources.resources
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.csproj.GenerateResource.Cache
+B:\c# project\Emp_Management_01\Emp_Management_01\bin\Debug\Emp_Management_01.exe
+B:\c# project\Emp_Management_01\Emp_Management_01\bin\Debug\Emp_Management_01.pdb
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.exe
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.pdb
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.frm_Add_New_Employee.resources
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.frm_View_Emp_Listcs.resources
+B:\c# project\Emp_Management_01\Emp_Management_01\bin\Debug\Emp_Management_01.exe.config
+B:\c# project\Emp_Management_01\Emp_Management_01\obj\x86\Debug\Emp_Management_01.csprojResolveAssemblyReference.cache
