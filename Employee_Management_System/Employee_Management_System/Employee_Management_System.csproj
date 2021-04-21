@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{15B576DA-1AD3-4342-9280-B23DB9684ECC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Employee_Management_System</RootNamespace>
+    <AssemblyName>Employee_Management_System</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XanderUI">
+      <HintPath>..\..\..\soft\BBMS ICON\csharpui.comXanderUI_DLL\XanderUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Emp_Management_02_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Emp_Management_02_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Management_MDIParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emp_Management_MDIParent.Designer.cs">
+      <DependentUpon>Emp_Management_MDIParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Mgt_02_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Emp_Mgt_02_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Mgt_02_DBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Emp_Mgt_02_DBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Mgt_02_DBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Emp_Mgt_02_DBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Mgt_02_DBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Emp_Mgt_02_DBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Add_New_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Add_New_Employee.Designer.cs">
+      <DependentUpon>frm_Add_New_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Search_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Search_Employee.Designer.cs">
+      <DependentUpon>frm_Search_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_View_Employee_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_View_Employee_List.Designer.cs">
+      <DependentUpon>frm_View_Employee_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global_Vars.cs" />
+    <Compile Include="New_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Registration.Designer.cs">
+      <DependentUpon>New_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Emp_Management_MDIParent.resx">
+      <DependentUpon>Emp_Management_MDIParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Add_New_Employee.resx">
+      <DependentUpon>frm_Add_New_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Search_Employee.resx">
+      <DependentUpon>frm_Search_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_View_Employee_List.resx">
+      <DependentUpon>frm_View_Employee_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Registration.resx">
+      <DependentUpon>New_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Emp_Management_02_DBDataSet.xsc">
+      <DependentUpon>Emp_Management_02_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Management_02_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Emp_Management_02_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Emp_Management_02_DBDataSet.xss">
+      <DependentUpon>Emp_Management_02_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet.xsc">
+      <DependentUpon>Emp_Mgt_02_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Emp_Mgt_02_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet.xss">
+      <DependentUpon>Emp_Mgt_02_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet1.xsc">
+      <DependentUpon>Emp_Mgt_02_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Emp_Mgt_02_DBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet1.xss">
+      <DependentUpon>Emp_Mgt_02_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet2.xsc">
+      <DependentUpon>Emp_Mgt_02_DBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Emp_Mgt_02_DBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet2.xss">
+      <DependentUpon>Emp_Mgt_02_DBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet3.xsc">
+      <DependentUpon>Emp_Mgt_02_DBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Emp_Mgt_02_DBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Emp_Mgt_02_DBDataSet3.xss">
+      <DependentUpon>Emp_Mgt_02_DBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,22 @@
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.Emp_Management_MDIParent.resources
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_Login.resources
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.exe
+C:\Users\ADMIN\Desktop\Final year project\New folder\Assigements\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.pdb
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.exe
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.pdb
+B:\c# project\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+B:\c# project\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.Emp_Management_MDIParent.resources
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_Add_New_Employee.resources
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_Login.resources
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.Properties.Resources.resources
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.csproj.GenerateResource.Cache
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.csprojResolveAssemblyReference.cache
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_Search_Employee.resources
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_View_Employee_List.resources
+B:\c# project\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+B:\c# project\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_New_Registration.resources
