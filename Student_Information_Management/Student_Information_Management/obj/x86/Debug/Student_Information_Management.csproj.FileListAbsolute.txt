@@ -1,0 +1,12 @@
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.frm_Login.resources
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.Properties.Resources.resources
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.csproj.GenerateResource.Cache
+B:\c# project\Student_Information_Management\Student_Information_Management\bin\Debug\Student_Information_Management.exe
+B:\c# project\Student_Information_Management\Student_Information_Management\bin\Debug\Student_Information_Management.pdb
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.exe
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.pdb
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.frm_Add_Student_Details.resources
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.csprojResolveAssemblyReference.cache
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.frm_View_All_Students.resources
+B:\c# project\Student_Information_Management\Student_Information_Management\bin\Debug\Student_Information_Management.exe.config
+B:\c# project\Student_Information_Management\Student_Information_Management\obj\x86\Debug\Student_Information_Management.frm_Search_Student.resources
