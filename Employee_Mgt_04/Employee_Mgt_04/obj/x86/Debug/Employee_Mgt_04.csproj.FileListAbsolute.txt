@@ -1,0 +1,17 @@
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_Login.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_New_Register.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.Properties.Resources.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.csproj.GenerateResource.Cache
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\bin\Debug\Employee_Mgt_04.exe
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\bin\Debug\Employee_Mgt_04.pdb
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.exe
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.pdb
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_Add_New_Employee.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\bin\Debug\Employee_Mgt_04.exe.config
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_Dashboard.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_View_Emp_List.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_Search_Employee.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_Add_New_Department.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.csprojResolveAssemblyReference.cache
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_View_Emp_Details_By_Dept.resources
+B:\c# project\Employee_Mgt_04\Employee_Mgt_04\obj\x86\Debug\Employee_Mgt_04.frm_Upload_Show_Image.resources
