@@ -1,0 +1,8 @@
+B:\c# project\Windows_Form_Control\Windows_Form_Control\obj\x86\Debug\Windows_Form_Control.frm_Windows_Form_Control.resources
+B:\c# project\Windows_Form_Control\Windows_Form_Control\obj\x86\Debug\Windows_Form_Control.Properties.Resources.resources
+B:\c# project\Windows_Form_Control\Windows_Form_Control\obj\x86\Debug\Windows_Form_Control.csproj.GenerateResource.Cache
+B:\c# project\Windows_Form_Control\Windows_Form_Control\bin\Debug\Windows_Form_Control.exe
+B:\c# project\Windows_Form_Control\Windows_Form_Control\bin\Debug\Windows_Form_Control.pdb
+B:\c# project\Windows_Form_Control\Windows_Form_Control\obj\x86\Debug\Windows_Form_Control.exe
+B:\c# project\Windows_Form_Control\Windows_Form_Control\obj\x86\Debug\Windows_Form_Control.pdb
+B:\c# project\Windows_Form_Control\Windows_Form_Control\obj\x86\Debug\Windows_Form_Control.csprojResolveAssemblyReference.cache
