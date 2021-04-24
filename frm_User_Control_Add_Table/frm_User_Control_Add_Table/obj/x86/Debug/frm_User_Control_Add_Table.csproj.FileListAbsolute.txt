@@ -1,0 +1,9 @@
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\bin\Debug\frm_User_Control_Add_Table.exe
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\bin\Debug\frm_User_Control_Add_Table.pdb
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\obj\x86\Debug\frm_User_Control_Add_Table.frm_Add_Bill.resources
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\obj\x86\Debug\frm_User_Control_Add_Table.Properties.Resources.resources
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\obj\x86\Debug\frm_User_Control_Add_Table.UC_Table.resources
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\obj\x86\Debug\frm_User_Control_Add_Table.csproj.GenerateResource.Cache
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\obj\x86\Debug\frm_User_Control_Add_Table.exe
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\obj\x86\Debug\frm_User_Control_Add_Table.pdb
+B:\c# project\frm_User_Control_Add_Table\frm_User_Control_Add_Table\obj\x86\Debug\frm_User_Control_Add_Table.csprojResolveAssemblyReference.cache
